@@ -2,7 +2,7 @@
 
 O jogo e baseado no anime pokemon, onde vem um pokemon aleatório e 4 opções de escolha assim que escolher um pokemon será contabilizado se você acertou ou errou. Esse jogo foi feito para estudos então caso tenha algum erro ou algo que possa melhorar basta abrir um request ou chamar no linkedin ou no discord. ^^
 
-Os pokemons e gerados usando a API do POKEAPI , ele gerar um pokemon baseado em todos existende na API
+Os pokemons são gerados usando a API do POKEAPI, ele gera um pokemon baseado em todos existente na API
 [POKEAPI](https://github.com/PokeAPI/pokeapi)
 
 # Exemplo de uso
